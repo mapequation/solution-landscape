@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+partition-validation/
+
+results/*.tree
+results/*.txt
+results/*.csv
+results/*.pdf
