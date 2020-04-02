@@ -133,3 +133,5 @@ results/*.tree
 results/*.txt
 results/*.csv
 results/*.pdf
+results/*.png
+!results/jazz_cluster_1-1-2-2_partition_1-2-1-2.png
