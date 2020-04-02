@@ -1,26 +1,26 @@
 Solution landscape
 ==================
 
-Visualize and explore the solution landscape of Infomap based on clusters of network partitions. The solution landscape notebook helps you
+Visualize and explore the solution landscape of Infomap based on clusters of network partitions. The solution landscape notebook helps you:
 
-1. identify how many times you need to run Infomap for a solution with given resolution and accuracy
+1. Identify how many times you need to run Infomap for a solution with given resolution and accuracy
     .. figure:: images/validation_score.png
-        :align: left
-        :height: 200px
+        :align: center
+        :height: 150px
         :alt: Validation score
-        :figclass: align-left
-2. visualize the solution landscape with alternative solutions
+        :figclass: align-center
+2. Visualize the solution landscape with alternative solutions
     .. figure:: images/solution_landscape.png
-        :align: left
-        :height: 200px
+        :align: center
+        :height: 150px
         :alt: Solution landscape
-        :figclass: align-left
-3. explore how node assignments change between different solutions
+        :figclass: align-center
+3. Explore how node assignments change between different solutions
     .. figure:: images/alluvial_diagram.png
-        :align: left
-        :height: 200px
+        :align: center
+        :height: 150px
         :alt: Alluvial diagram
-        :figclass: align-left
+        :figclass: align-center
 
 The notebook uses Infomap as an example, but works for any network clustering algorithm producing two-level or multilevel partitions. 
 
