@@ -2,6 +2,7 @@ Solution landscape
 ==================
 
 Visualize and explore the solution landscape of Infomap based on clusters of network partitions. The solution landscape notebook helps you
+
 1. identify how many times you need to run Infomap for a solution with given resolution and accuracy
 2. visualize the solution landscape with alternative solutions
 3. explore how node assignments change between different solutions
