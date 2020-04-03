@@ -5,20 +5,20 @@ Visualize and explore the solution landscape of [Infomap](https://github.com/map
 
 1. Identify how many times you need to run Infomap to obtain a solution with given resolution and accuracy.
 
-<p align="right">
-    <img height="200" alt="Validation score" src="images/validation_score.png">
+<p align="center">
+    <img height="250" alt="Validation score" src="images/validation_score.png">
 </p>
 
 2. Visualize the solution landscape with alternative solutions.
 
-<p align="right">
-    <img height="300" alt="Solution landscape" src="images/solution_landscape.png">
+<p align="center">
+    <img height="350" alt="Solution landscape" src="images/solution_landscape.png">
 </p>
 
 3. Explore how node assignments change between different solutions.
 
-<p align="right">    
-    <img height="200" alt="Alluvial diagram" src="images/alluvial_diagram.png"> 
+<p align="center">    
+    <img height="250" alt="Alluvial diagram" src="images/alluvial_diagram.png"> 
 </p>
 
 The notebook uses Infomap as an example, but works for any network clustering algorithm producing two-level or multilevel partitions. 
